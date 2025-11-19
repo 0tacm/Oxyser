@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" alt="Oxyser Notes Logo" width="200">
+  <img src="Oxyser.png" alt="Oxyser Notes Logo" width="200">
 </p>
 
 # Oxyser
