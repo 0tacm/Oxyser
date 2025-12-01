@@ -15,15 +15,14 @@ An open-source notes for red-team/penetration-testing/IoT/OT/cloud and bug-bount
 
 ## Documentation
 
-[Documentation](https://linktodocumentation)
+[Documentation](https://oxysernotes.gitbook.io/oxysernotes-docs/)
 
 
 ## Installation
 
-Install my-project with npm
-
 ```bash
-  npm install my-project
-  cd my-project
+  unzip Oxyser.zip
+  cd Oxyser
+  cherrytree oxyser.ctb
 ```
     
