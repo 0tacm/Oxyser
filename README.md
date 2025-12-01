@@ -21,6 +21,8 @@ An open-source notes for red-team/penetration-testing/IoT/OT/cloud and bug-bount
 ## Installation
 
 ```bash
+  git clone https://github.com/k0nfuciuzc/Oxyser.git
+  cd Oxyser
   unzip Oxyser.zip
   cd Oxyser
   cherrytree oxyser.ctb
