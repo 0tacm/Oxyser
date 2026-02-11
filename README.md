@@ -1,7 +1,7 @@
 
 # Katryn
 
-An open-source notes for red-team/penetration-testing/IoT/OT/cloud and bug-bounty.
+a public archive with penetration testing and red team operations notes (In developement)
 
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
