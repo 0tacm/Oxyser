@@ -1,5 +1,5 @@
 
-# Oxyser
+# Katryn
 
 An open-source notes for red-team/penetration-testing/IoT/OT/cloud and bug-bounty.
 
@@ -10,7 +10,7 @@ An open-source notes for red-team/penetration-testing/IoT/OT/cloud and bug-bount
 
 ## Authors
 
-- [@k0nfuciuzc](https://www.github.com/k0nfuciuzc)
+- [@catm0](https://www.github.com/catm0)
 
 
 ## Documentation
@@ -21,10 +21,10 @@ An open-source notes for red-team/penetration-testing/IoT/OT/cloud and bug-bount
 ## Installation
 
 ```bash
-  git clone https://github.com/k0nfuciuzc/Oxyser.git
-  cd Oxyser
-  unzip Oxyser.zip
-  cd Oxyser
-  cherrytree oxyser.ctb
+  git clone https://github.com/catm0/Katryn.git
+  cd Katryn
+  unzip Katryn.zip
+  cd Katryn
+  cherrytree Katryn.ctb
 ```
     
